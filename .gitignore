@@ -1,0 +1,12 @@
+secret.py
+*.dat
+wp.txt
+thumbnail.jpg
+*.mp4
+*.mp3
+.vscode
+myenv
+__pycache__
+*.png
+*.json
+pyfile.py
